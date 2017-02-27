@@ -15,8 +15,8 @@ import java.util.Properties;
 
 public class DataConnection {
 	
-	private static String userName = "diabai"; //TODO - your uwnetid here
-	private static String password = "keowkOn"; //TODO - your mysqlpassword here
+	private static String userName = "diabai"; //TODO - my uwnetid here
+	private static String password = "keowkOn"; //TODO - my mysqlpassword here
 	private static String serverName = "cssgate.insttech.washington.edu";
 	private static Connection sConnection;
 	
